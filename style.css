@@ -591,7 +591,7 @@ body {
     animation: opacityHeart 1s 1s forwards;
 }
 .content__letter .right .text__letter{
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 20px 15px 10px 15px;
     font-family: 'Dancing Script', cursive;
     font-size: 1.3rem;
@@ -604,4 +604,5 @@ body {
 }
 #mewmew.animationOp{
     animation: opacityHeart 1s 1s forwards;
+
 }
